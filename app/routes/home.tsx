@@ -90,9 +90,15 @@ export default function Home() {
                       Start Building <ArrowRight className="icon" />
                   </a>
 
-                  <Button variant="outline" size="lg" className="demo">
-                      Watch Demo
-                  </Button>
+                    <a
+                        href="https://youtube.com/shorts/aP-9OYMH5A8?si=30WmDNd0laaZQt1-"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                    <Button variant="outline" size="lg" className="demo">
+                        Watch Demo
+                    </Button>
+                    </a>
               </div>
 
               <div id="upload" className="upload-shell">
